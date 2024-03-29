@@ -1,6 +1,4 @@
-Certainly! Here's a README.md file text for your GitHub profile:
 
----
 
  Hi there, I'm Muhammad Shah! 👋
 
